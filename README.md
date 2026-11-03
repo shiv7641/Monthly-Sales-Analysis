@@ -1,10 +1,10 @@
 
 
-\# 📊 Monthly Sales Analysis
+# 📊 Monthly Sales Analysis
 
 
 
-\## 📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes monthly sales and profit data using Python.
 
@@ -12,31 +12,31 @@ It uses Pandas for data analysis and Matplotlib for data visualization.
 
 
 
-\## 🛠️ Technologies Used
+## 🛠️ Technologies Used
 
-\- Python
+- Python
 
-\- Pandas
+- Pandas
 
-\- Matplotlib
+- Matplotlib
 
-\- Jupyter Notebook
-
-
-
-\## 📁 Project Structure
-
-\- sales\_analysis.ipynb
-
-\- sales\_data.csv
-
-\- images/monthly\_sales.png
-
-\- requirements.txt
+- Jupyter Notebook
 
 
 
-\## 📊 Monthly Sales Visualization
+## 📁 Project Structure
+
+- sales_analysis.ipynb
+
+- sales_data.csv
+
+- images/monthly_sales.png
+
+- requirements.txt
+
+
+
+## 📊 Monthly Sales Visualization
 
 
 
@@ -46,19 +46,19 @@ It uses Pandas for data analysis and Matplotlib for data visualization.
 
 ![Monthly Sales Graph](./images/monthly_sales.png)
 
-\## 🔍 Key Insights
+## 🔍 Key Insights
 
-\- Highest sales were recorded in June.
+- Highest sales were recorded in June.
 
-\- Total Sales: ₹10,35,000
+- Total Sales: ₹10,35,000
 
-\- Average Monthly Sales: ₹1,72,500
+- Average Monthly Sales: ₹1,72,500
 
-\- Sales performance increased overall from January to June.
+- Sales performance increased overall from January to June.
 
 
 
-\## 👨‍💻 Author
+## 👨‍💻 Author
 
 Manisha Gaikwad
 
