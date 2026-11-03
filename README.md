@@ -42,7 +42,9 @@ It uses Pandas for data analysis and Matplotlib for data visualization.
 
 ## 📊 Monthly Sales Visualization
 
-![Monthly Sales Graph](images/monthly_sales.png)
+## 📊 Monthly Sales Visualization
+
+![Monthly Sales Graph](./images/monthly_sales.png)
 
 \## 🔍 Key Insights
 
