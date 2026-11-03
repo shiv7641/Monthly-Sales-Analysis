@@ -40,7 +40,9 @@ It uses Pandas for data analysis and Matplotlib for data visualization.
 
 
 
-https://github.com/shiv7641/Monthly-Sales-Analysis/blob/main/Images/monthly\_sales.png
+## 📊 Monthly Sales Visualization
+
+![Monthly Sales Graph](images/monthly_sales.png)
 
 \## 🔍 Key Insights
 
