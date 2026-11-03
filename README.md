@@ -1,31 +1,42 @@
-# Monthly Sales Analysis using Python
 
-## About Project
+
+\# 📊 Monthly Sales Analysis
+
+
+
+\## 📌 Project Overview
 
 This project analyzes monthly sales and profit data using Python.
 
-## Technologies Used
+It uses Pandas for data analysis and Matplotlib for data visualization.
 
-* Python
-* Pandas
-* Matplotlib
 
-## Project Objectives
 
-* Analyze monthly sales.
-* Calculate total sales and profit.
-* Find the best performing month.
-* Visualize monthly sales using charts.
+\## 🛠️ Technologies Used
 
-## Author
+\- Python
 
-Your Name
+\- Pandas
+
+\- Matplotlib
+
+\- Jupyter Notebook
+
+
+
+\## 📁 Project Structure
+
+\- sales\_analysis.ipynb
+
+\- sales\_data.csv
+
+\- images/monthly\_sales.png
+
+\- requirements.txt
+
+
 
 \## 📊 Monthly Sales Visualization
-
-
-
-The following chart shows monthly sales performance.
 
 
 
@@ -35,11 +46,19 @@ The following chart shows monthly sales performance.
 
 \## 🔍 Key Insights
 
-
-
 \- Highest sales were recorded in June.
 
-\- Monthly sales increased over time.
+\- Total Sales: ₹10,35,000
 
-\- Sales data was visualized using Matplotlib.
+\- Average Monthly Sales: ₹1,72,500
+
+\- Sales performance increased overall from January to June.
+
+
+
+\## 👨‍💻 Author
+
+Manisha Gaikwad
+
+
 
